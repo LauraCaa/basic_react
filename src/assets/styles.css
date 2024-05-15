@@ -1,0 +1,68 @@
+div{
+    padding: 10px 20px;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+table{
+    border-collapse: collapse;
+    font-family: sans-serif;
+    font-size: 14px;
+    width: 100%;
+}
+thead{
+    color: rgb(209, 209, 209);
+}
+th{
+    padding: 10px;
+}
+tr{
+    border-bottom: 1px solid #e3e2e2;
+}
+tbody tr:hover{
+    background-color: #eaf8f9;
+}
+img{
+    border-radius: 50px;
+    margin: 14px 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+p{
+    display: inline-block;
+    vertical-align: middle;
+}
+.operation-div{
+    display: inline-block;
+    text-align: center;
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-weight: bold;
+    font-size: 12px;
+}
+.purchase{
+    background-color: #dbe7f9;
+    color: #4d83d5;
+}
+.compensation{
+    background-color: #dcfffe;
+    color: #57cfc6;
+}
+.free-trial{
+    background-color: #57cfc6;
+    color: #ffffff;
+}
+.align-right{
+    text-align: right;
+}
+.align-left{
+    text-align: left;
+}
+.bold-text{
+    font-weight: bold;
+}
+.amount-color{
+    color: #84dedb;
+}
+
